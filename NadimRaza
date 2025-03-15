@@ -13,6 +13,12 @@ https://video.twimg.com/ext_tw_video/1847196839222689793/pu/pl/oVXB7bOG4oH0XFv3.
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://play-lh.googleusercontent.com/y9w-nselBBlIh2B9nrZ3rxtDEOXet73lGBdV4YSzI0_Z_S9o-DIVW5bSvKJ53RbI1lA=w240-h480-rw" group-title="LIVE TV", NADIM SPORTS TV
 http://ch01.sh365.org/24248/index.m3u8?token=aStZEFSZ2wYR7C
 
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" group-title="LIVE TV", SONY MAX HD
+http://kst.moonplex.net:8080/CH1/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="Green Bangla HD🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png", Green Bangla HD 
