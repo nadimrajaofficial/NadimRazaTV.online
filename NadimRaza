@@ -23,6 +23,9 @@ http://kst.moonplex.net:8080/CH9/index.m3u8
 http://kst.moonplex.net:8080/CH12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_-HAZbux1ShjI_R5mpiFN4AwJJ6xtz8xMg&usqp=CAU" group-title="LIVE TV", Vision HD TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami-768x768.jpg" group-title="LIVE TV", SAMI TV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/smtvbd.stream/tracks-v1a1/mono.ts.m3u8
+
 
 
 
